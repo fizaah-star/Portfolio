@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Fiza Ahmed monogram">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#070B16"/>
+  <rect x="10" y="10" width="108" height="108" rx="24" fill="none" stroke="url(#g)" stroke-width="2" opacity="0.8"/>
+  <path d="M38 92V36h18l16 22 16-22h18v56H88V54L72 76H56L40 54v38H38Z" fill="url(#g)"/>
+</svg>
